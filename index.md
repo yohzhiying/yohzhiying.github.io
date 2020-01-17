@@ -4,13 +4,13 @@
 
 ### Category Name 1 
 
-[Diamond Hunter](/sample_page)
-<img src="images/diamond_hunter.png?raw=true"/>
-<img src="images/diamond_hunter_1.png?raw=true"/>
-<img src="images/diamond_hunter_2.png?raw=true"/>
+[Diamond Hunter]
+<img src="images/diamond_hunter.png?raw=true" width="200" />
+<img src="images/diamond_hunter_1.png?raw=true" width="200"/>
+<img src="images/diamond_hunter_2.png?raw=true" width="200"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Sakila Database]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
