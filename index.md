@@ -7,11 +7,9 @@
 #### Diamond Hunter
 ##### This is a group project that we were responsible to create a mapviewer enabling the player to allocate the position of the weapons for the game. Java is used as the main programming language for this project.
 
-<p float="left'>
-  <img src="images/diamond_hunter.png?raw=true" width="200" />
-  <img src="images/diamond_hunter_2.png?raw=true" width="200" />
-  <img src="images/diamond_hunter_3.png?raw=true" width="200" />
-</p>
+<img src="images/diamond_hunter.png?raw=true" width="200" />
+<img src="images/diamond_hunter_2.png?raw=true" width="200" />
+<img src="images/diamond_hunter_3.png?raw=true" width="200" />
 
 ---
 #### Sakila Database
